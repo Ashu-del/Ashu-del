@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ashu-del
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data structures & Algorithm and c++
+- 🌱 I’m efficient in Data structures & Algorithm and c++
+- I Know language like C,C++,HTML,CSS,Javascript and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
