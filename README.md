@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me  
-- 💻 Java Backend Developer with **1+ year** experience in **Spring Boot, REST APIs, MySQL**  
+- 💻 Java Backend Developer with **1+ year** experience in **Spring Boot, REST APIs, MySQL,Microservices**  
 - 🏗 Building scalable backend systems & secure APIs  
-- 🌱 Currently learning **Microservices, Docker, AWS**  
-- 📫 Reach me at **your-email@example.com**  
-- 📄 [View My Resume](https://drive.google.com/link-to-resume)  
+- 🌱 Currently learning **Docker, AWS**  
+- 📫 Reach me at **pandeyashu2211@gmail.com**  
+- 📄 [View My Resume](https://docs.google.com/document/d/12jxNXzAjxIny8X2FhOIdLFDGoaTM8qS8/edit?usp=sharing&ouid=109001459276568820819&rtpof=true&sd=true)  
 
 ---
 
