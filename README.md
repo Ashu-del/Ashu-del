@@ -32,7 +32,7 @@
 - **Tech:** Java, Spring Boot, Spring Security (JWT), MySQL, Hibernate  
 - **Features:** User/Admin login, Destination CRUD, Booking Management, Role-based APIs  
 - **Highlights:** JWT Authentication, DTO usage, Clean layered architecture  
-- 🔗 [GitHub Repo](https://github.com/Ashu-del/travel-booking-api) | [API Docs](link-to-postman-collection)
+- 🔗 [GitHub Repo](https://github.com/Ashu-del/travel-booking-api)
 
 #### **2. Employee Management System**
 - **Tech:** Java, Spring Boot, MySQL, React (Frontend)  
