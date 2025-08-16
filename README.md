@@ -12,7 +12,7 @@
 - 🏗 Building scalable backend systems & secure APIs  
 - 🌱 Currently learning **Docker, AWS**  
 - 📫 Reach me at **pandeyashu2211@gmail.com**  
-- 📄 [View My Resume](https://docs.google.com/document/d/12jxNXzAjxIny8X2FhOIdLFDGoaTM8qS8/edit?usp=sharing&ouid=109001459276568820819&rtpof=true&sd=true)  
+- 📄 [View My Resume](https://docs.google.com/document/d/1ssf88X8VMaXYJF7fhdmu8F6GpIJLUiY3/edit?usp=sharing&ouid=109001459276568820819&rtpof=true&sd=true)  
 
 ---
 
