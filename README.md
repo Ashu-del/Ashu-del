@@ -38,7 +38,7 @@
 - **Tech:** Java, Spring Boot, MySQL, React (Frontend)  
 - **Features:** Employee CRUD, Validation, Pagination, Search  
 - **Highlights:** RESTful APIs, Error handling, DTO mapping  
-- 🔗 [GitHub Repo](https://github.com/Ashu-del/employee-management)
+- 🔗 [GitHub Repo](https://github.com/Ashu-del/Employee-Management-API)
 
 
 
