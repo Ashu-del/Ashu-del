@@ -12,7 +12,7 @@
 - 🏗 Building scalable backend systems & secure APIs  
 - 🌱 Currently learning **Docker, AWS**  
 - 📫 Reach me at **pandeyashu2211@gmail.com**  
-- 📄 [View My Resume](https://docs.google.com/document/d/1ssf88X8VMaXYJF7fhdmu8F6GpIJLUiY3/edit?usp=sharing&ouid=109001459276568820819&rtpof=true&sd=true)  
+- 📄 [View My Resume]([https://docs.google.com/document/d/1ssf88X8VMaXYJF7fhdmu8F6GpIJLUiY3/edit?usp=sharing&ouid=109001459276568820819&rtpof=true&sd=true](https://drive.google.com/file/d/1uYO-2GhA4-fUon_WB2ntYZwEJ7bdsazN/view?usp=sharing))  
 
 ---
 
@@ -35,9 +35,9 @@
 - 🔗 [GitHub Repo](https://github.com/Ashu-del/travel-booking-api)
 
 #### **2. Employee Management System**
-- **Tech:** Java, Spring Boot, MySQL, React (Frontend)  
-- **Features:** Employee CRUD, Validation, Pagination, Search  
-- **Highlights:** RESTful APIs, Error handling, DTO mapping  
+- **Tech:** Java, Spring Boot, MySQL, JWT, JavaMailSender 
+- **Features:** Employee CRUD, Validation, Pagination, Search , Attendence , Leave, Role-Based Access
+- **Highlights:** RESTful APIs, Error handling, DTO mapping , JWT Authentication
 - 🔗 [GitHub Repo](https://github.com/Ashu-del/Employee-Management-API)
 
 
