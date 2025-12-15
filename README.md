@@ -32,7 +32,7 @@
 - **Tech:** Java, Spring Boot, Spring Security (JWT), MySQL, Hibernate,MicroServices,   
 - **Features:** API Gateway Pattern, Saga (Orchestration-based), Idempotent APIs, Distributed transaction handling,Separation of public vs internal APIs 
 - **Highlights:** JWT Authentication, DTO usage, Clean layered architecture  
-- 🔗 [GitHub Repo](https://github.com/Ashu-del/travel-booking-api)
+- 🔗 [GitHub Repo](https://github.com/Ashu-del/TripVerse)
 
 #### **2. Employee Management System**
 - **Tech:** Java, Spring Boot, MySQL, JWT, JavaMailSender , Redis
