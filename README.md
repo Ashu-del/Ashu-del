@@ -28,9 +28,9 @@
 
 ### 📌 Featured Projects  
 
-#### **1. Travel Booking API**
-- **Tech:** Java, Spring Boot, Spring Security (JWT), MySQL, Hibernate  
-- **Features:** User/Admin login, Destination CRUD, Booking Management, Role-based APIs  
+#### **1. TripVerse**
+- **Tech:** Java, Spring Boot, Spring Security (JWT), MySQL, Hibernate,MicroServices,   
+- **Features:** API Gateway Pattern, Saga (Orchestration-based), Idempotent APIs, Distributed transaction handling,Separation of public vs internal APIs 
 - **Highlights:** JWT Authentication, DTO usage, Clean layered architecture  
 - 🔗 [GitHub Repo](https://github.com/Ashu-del/travel-booking-api)
 
